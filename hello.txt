@@ -1,5 +1,7 @@
 new feature 
 bug is fixed
 
+bug fixed from bug-branch
+
 
 
